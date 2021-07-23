@@ -19,5 +19,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-Feel free to check it out and use it here:
+Click the link below to check it out:
 https://patjrod78.github.io/What-You-Doing/
