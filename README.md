@@ -1,5 +1,7 @@
 # What-You-Doing
 
+![Screenshot (31)](https://user-images.githubusercontent.com/82895280/126807062-b5bfe91d-41b3-4e7a-8f92-8a3b56b9cba7.png)
+
 What You Doing is a time management web-based daily planner that helps individulas plan their daily events in an effort 
 to help manage their time more effectively amd efficiently.
 
